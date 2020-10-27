@@ -7,6 +7,7 @@ function App() {
       <div className="nimbus-docs">
         <h1>Nimbus Docs</h1>
         <p>Hola Mundo</p>
+        <p>staging</p>
       </div>
     </div>
   );
